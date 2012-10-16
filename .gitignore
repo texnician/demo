@@ -2,4 +2,4 @@ hello
 hello.exe
 *.o
 *.h
-
+~*
